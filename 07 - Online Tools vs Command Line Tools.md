@@ -10,7 +10,6 @@ tags:
 
 # الفرق بين Online Tool و Command Line Tool
 
-[[Index|Back to Index]]
 
 ## Online Tool
 
