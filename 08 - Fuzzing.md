@@ -11,7 +11,6 @@ tags:
 
 # Fuzzing
 
-[[Index|Back to Index]]
 
 ## ما هو Fuzzing؟
 
