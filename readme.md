@@ -41,16 +41,4 @@
 
 ---
 
-## Keywords
 
-`WAF` `Origin IP` `HTTP` `HTTPS` `TLS`  
-`Request` `Response` `GET` `POST` `PUT` `DELETE`  
-`DNS` `A Record` `AAAA` `MX` `TXT` `CNAME`  
-`Recon` `Bug Bounty` `Pentest` `Fuzzing` `Wordlist`  
-`IP` `Subdomain` `ASN` `Geolocation`  
-`Status Code` `robots.txt` `Crawler` `Googlebot`  
-`Webalizer` `Logs` `.git` `.htaccess`  
-`Admin Panel` `Backup Files` `Metadata`  
-`Wayback Machine` `Historical URLs` `Archive`  
-`Fingerprinting` `Nmap` `WhatWeb` `Wappalyzer`  
-`Google Dorking` `Search Operators`
