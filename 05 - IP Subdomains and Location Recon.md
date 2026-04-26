@@ -13,7 +13,6 @@ tags:
 
 # IP, Subdomains, and Location Recon
 
-[[Index|Back to Index]]
 
 ## الفكرة العامة
 
