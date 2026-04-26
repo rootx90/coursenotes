@@ -11,7 +11,6 @@ tags:
 
 # HTTP Status Codes and Response Pages
 
-[[Index|Back to Index]]
 
 ## ما هو HTTP Response؟
 
@@ -157,7 +156,7 @@ http://example.com -> https://example.com
 - قد يعني أن path موجود لكنه محمي.
 - يمكن أن يشير إلى admin panel أو file موجود.
 
-> [!tip] ملاحظة
+>  ملاحظة
 > `403` ليس فشل دائما. أحيانا هو دليل أن المسار موجود ويستحق تحليل أكثر داخل التصريح.
 
 ### 404 Not Found
@@ -350,5 +349,5 @@ ffuf -u https://example.com/FUZZ -w wordlist.txt -mc all
 
 ## الخلاصة
 
-> [!summary] Response Analysis
+>  Response Analysis
 > Status codes تعطيك أول إشارة عن نتيجة الطلب، لكن التحليل الصحيح يحتاج مقارنة الكود مع الصفحة، الحجم، headers، redirects، والاختلاف عن baseline.
