@@ -11,7 +11,6 @@ tags:
 
 # DNS Records
 
-[[Index|Back to Index]]
 
 ## ما هو DNS؟
 
