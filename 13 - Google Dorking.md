@@ -11,7 +11,6 @@ tags:
 
 # Google Dorking
 
-[[Index|Back to Index]]
 
 ## ما هو Google Dorking؟
 
