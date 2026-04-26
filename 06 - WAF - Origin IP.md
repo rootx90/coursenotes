@@ -10,7 +10,6 @@ tags:
 
 # WAF - Origin IP
 
-[[Index|Back to Index]]
 
 > [!summary] الفكرة الأساسية
 > الـ WAF أو Web Application Firewall بيكون طبقة حماية بين المستخدمين والسيرفر الأصلي. الهدف إن كل الترافيك يدخل على الـ WAF الأول، وبعدها الـ WAF يوصله للـ origin server.
