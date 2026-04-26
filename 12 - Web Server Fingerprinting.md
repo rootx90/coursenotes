@@ -12,7 +12,6 @@ tags:
 
 # Web Server Fingerprinting
 
-[[Index|Back to Index]]
 
 ## ما هو Web Server Fingerprinting؟
 
