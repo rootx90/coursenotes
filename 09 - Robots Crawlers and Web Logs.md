@@ -14,7 +14,6 @@ tags:
 
 # Robots.txt, Crawlers, and Web Logs
 
-[[Index|Back to Index]]
 
 ## الفكرة العامة
 
