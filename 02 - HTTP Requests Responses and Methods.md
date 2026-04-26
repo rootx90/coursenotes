@@ -12,7 +12,6 @@ tags:
 
 # HTTP Requests, Responses, and Methods
 
-[[Index|Back to Index]]
 
 ## الفكرة العامة
 
