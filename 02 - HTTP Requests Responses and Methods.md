@@ -401,5 +401,5 @@ curl -i -X OPTIONS https://example.com/api/users
 
 ## الخلاصة
 
-> [!summary] Request/Response
+> Request/Response
 > أي اختبار ويب يبدأ من فهم request و response. راقب method, path, parameters, headers, cookies, body، ثم حلل response. هذا الأساس يساعدك تفهم APIs، access control، validation، ونتائج الفحص بشكل صحيح.
