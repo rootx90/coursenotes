@@ -12,7 +12,6 @@ tags:
 
 # Sensitive Files and Metadata
 
-[[Index|Back to Index]]
 
 ## الفكرة العامة
 
