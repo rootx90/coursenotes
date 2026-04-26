@@ -5,7 +5,6 @@ tags:
   - robots-txt
   - crawler
   - googlebot
-  - webalizer
   - logs
   - recon
   - bug-bounty
@@ -24,7 +23,6 @@ tags:
 - `robots.txt`
 - `sitemap.xml`
 - Googlebot و search engine crawlers
-- Webalizer و AWStats
 - Access logs وتحليل الزيارات
 
 > [!important] مهم
@@ -208,8 +206,6 @@ IP - time - method - path - status code - user agent
 | `/security.txt` | طريقة التواصل الأمني أحيانا |
 | `/humans.txt` | معلومات عن الفريق أو التقنية أحيانا |
 | `/ads.txt` | معلومات إعلانية |
-| `/webalizer/` | إحصائيات Webalizer لو مكشوفة |
-| `/awstats/` | إحصائيات AWStats لو مكشوفة |
 | `/stats/` | إحصائيات عامة قد تكون حساسة |
 
 ## أوامر مفيدة
@@ -239,7 +235,6 @@ site:example.com robots.txt
 site:example.com sitemap.xml
 site:example.com inurl:stats
 site:example.com inurl:awstats
-site:example.com inurl:webalizer
 ```
 
 ## أخطاء شائعة
@@ -249,9 +244,8 @@ site:example.com inurl:webalizer
 - عدم فحص paths الموجودة في robots بشكل يدوي.
 - الاعتماد على Google فقط وعدم استخدام DNS/subdomain recon.
 - فحص صفحات stats خارج الـ scope.
-- عدم الانتباه أن Webalizer/AWStats قد تكون معلومات حساسة.
 
 ## الخلاصة
 
 > [!summary] Recon Value
-> `robots.txt`, `sitemap.xml`, Googlebot, Webalizer, و AWStats ليست ثغرات بحد ذاتها، لكنها مصادر recon مهمة. فائدتها أنها تكشف paths، صفحات، logs، وإشارات تساعدك تفهم بنية الموقع وتختار نقاط اختبار أفضل داخل الـ scope.
+> `robots.txt`, `sitemap.xml`, Googlebot,  ليست ثغرات بحد ذاتها، لكنها مصادر recon مهمة. فائدتها أنها تكشف paths، صفحات، logs، وإشارات تساعدك تفهم بنية الموقع وتختار نقاط اختبار أفضل داخل الـ scope.
