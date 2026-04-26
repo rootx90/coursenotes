@@ -13,7 +13,6 @@ tags:
 
 # Historical Analysis and Wayback Machine
 
-[[Index|Back to Index]]
 
 ## ما هو Historical Analysis؟
 
