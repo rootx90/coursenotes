@@ -20,6 +20,9 @@
 | 11 | [Historical Analysis and Wayback Machine](./11%20-%20Historical%20Analysis%20and%20Wayback%20Machine.md) | تحليل تاريخي للموقع باستخدام Wayback Machine و URL archives |
 | 12 | [Web Server Fingerprinting](./12%20-%20Web%20Server%20Fingerprinting.md) | معرفة نوع السيرفر والتقنيات باستخدام nmap وأدوات fingerprinting |
 | 13 | [Google Dorking](./13%20-%20Google%20Dorking.md) | استخدام Google search operators في recon |
+| 14 | [Directory and File Brute Force](./14%20-%20Directory%20and%20File%20Brute%20Force.md) | اكتشاف الملفات والمجلدات المخفية باستخدام brute force و wordlists |
+| 15 | [Proxy Between Client and Website](./15%20-%20Proxy%20Between%20Client%20and%20Website.md) | فهم دور الـ proxy بين المتصفح والموقع أثناء تحليل الطلبات |
+| 16 | [3 Tabs in Burp](./16%20-%203%20Tabs%20in%20Burp.md) | شرح أهم 3 تبويبات في Burp Suite واستخدامها في تحليل الويب |
 
 ---
 
@@ -38,7 +41,9 @@
 11. [Historical Analysis and Wayback Machine](./11%20-%20Historical%20Analysis%20and%20Wayback%20Machine.md)
 12. [Web Server Fingerprinting](./12%20-%20Web%20Server%20Fingerprinting.md)
 13. [Google Dorking](./13%20-%20Google%20Dorking.md)
-
+14. [Directory and File Brute Force](./14%20-%20Directory%20and%20File%20Brute%20Force.md)
+15. [Proxy Between Client and Website](./15%20-%20Proxy%20Between%20Client%20and%20Website.md)
+16. [3 Tabs in Burp](./16%20-%203%20Tabs%20in%20Burp.md)
 ---
 
 
