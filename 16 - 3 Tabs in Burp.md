@@ -12,7 +12,6 @@ tags:
 
 # 3 Tabs في Burp
 
-[[Index|Back to Index]]
 
 ## الفكرة العامة
 
