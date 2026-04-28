@@ -12,7 +12,6 @@ tags:
 
 # Directory and File Brute Force
 
-[[Index|Back to Index]]
 
 ## ما هو Directory & File Brute Force؟
 
