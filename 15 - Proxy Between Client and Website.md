@@ -12,7 +12,6 @@ tags:
 
 # Proxy Between Client and Website
 
-[[Index|Back to Index]]
 
 ## ما هو Proxy؟
 
