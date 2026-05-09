@@ -23,6 +23,10 @@
 | 14 | [Directory and File Brute Force](./14%20-%20Directory%20and%20File%20Brute%20Force.md) | اكتشاف الملفات والمجلدات المخفية باستخدام brute force و wordlists |
 | 15 | [Proxy Between Client and Website](./15%20-%20Proxy%20Between%20Client%20and%20Website.md) | فهم دور الـ proxy بين المتصفح والموقع أثناء تحليل الطلبات |
 | 16 | [3 Tabs in Burp](./16%20-%203%20Tabs%20in%20Burp.md) | شرح أهم 3 تبويبات في Burp Suite واستخدامها في تحليل الويب |
+| 17 | [SQL](./17%20-%20SQL.md) | شرح أساسيات SQL وعلاقتها بتطبيقات الويب وقواعد البيانات |
+| 18 | [Common Attacks 2 - XSS](./18%20-%20Common%20Attacks%202%20-%20XSS.md) | شرح ثغرة XSS وأنواعها وفكرة حقن JavaScript داخل صفحات الويب |
+| 19 | [Common Attacks 3 - Arbitrary File Upload](./19%20-%20Common%20Attacks%203%20-%20Arbitrary%20File%20Upload.md) | شرح مخاطر رفع الملفات غير الآمن وكيفية التعامل معه بشكل دفاعي |
+| 20 | [Common Attacks 4 - LFI Path Traversal and Log Poisoning](./20%20-%20Common%20Attacks%204%20-%20LFI%20Path%20Traversal%20and%20Log%20Poisoning.md) | شرح LFI و Path Traversal وفكرة Log Poisoning في اختبار تطبيقات الويب |
 
 ---
 
@@ -44,6 +48,10 @@
 14. [Directory and File Brute Force](./14%20-%20Directory%20and%20File%20Brute%20Force.md)
 15. [Proxy Between Client and Website](./15%20-%20Proxy%20Between%20Client%20and%20Website.md)
 16. [3 Tabs in Burp](./16%20-%203%20Tabs%20in%20Burp.md)
+17. [SQL](./17%20-%20SQL.md)
+18. [Common Attacks 2 - XSS](./18%20-%20Common%20Attacks%202%20-%20XSS.md)
+19. [Common Attacks 3 - Arbitrary File Upload](./19%20-%20Common%20Attacks%203%20-%20Arbitrary%20File%20Upload.md)
+20. [Common Attacks 4 - LFI Path Traversal and Log Poisoning](./20%20-%20Common%20Attacks%204%20-%20LFI%20Path%20Traversal%20and%20Log%20Poisoning.md)
 ---
 
 
