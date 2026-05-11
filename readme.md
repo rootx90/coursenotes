@@ -27,7 +27,6 @@
 | 18 | [Common Attacks 2 - XSS](./18%20-%20Common%20Attacks%202%20-%20XSS.md) | شرح ثغرة XSS وأنواعها وفكرة حقن JavaScript داخل صفحات الويب |
 | 19 | [Common Attacks 3 - Arbitrary File Upload](./19%20-%20Common%20Attacks%203%20-%20Arbitrary%20File%20Upload.md) | شرح مخاطر رفع الملفات غير الآمن وكيفية التعامل معه بشكل دفاعي |
 | 20 | [Common Attacks 4 - LFI Path Traversal and Log Poisoning](./20%20-%20Common%20Attacks%204%20-%20LFI%20Path%20Traversal%20and%20Log%20Poisoning.md) | شرح LFI و Path Traversal وفكرة Log Poisoning في اختبار تطبيقات الويب |
-
 | 21 | [Authentication and Authorization part1](./21%20-%20Authentication%20and%20Authorization%20part1.md) | شرح الفرق بين Authentication و Authorization وأساسيات تسجيل الدخول والصلاحيات |
 ---
 
