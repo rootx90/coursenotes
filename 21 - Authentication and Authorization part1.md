@@ -14,7 +14,7 @@ tags:
   - pentest
   - web-security
 ---
-# 21 - Authentication and Authorization part1
+#  Authentication 
 
 
 ---
